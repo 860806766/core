@@ -11,6 +11,7 @@ SERVER_URLS = [
     "https://server.growatt.com/",
     "https://server-us.growatt.com/",
     "http://server.smten.com/",
+    "http://server-cn.growatt.com/",
 ]
 
 DEFAULT_URL = SERVER_URLS[0]
